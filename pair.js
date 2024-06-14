@@ -57,32 +57,27 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: 'PANTHER;;;' + b64data });
 
                let SIGMA_MD_TEXT = `
-*𝑩𝑳𝑨𝑪𝑲 𝑷𝑨𝑵𝑻𝑯𝑬𝑹 𝑺𝑬𝑺𝑺𝑰𝑶𝑵 𝑹𝑼𝑵𝑵𝑰𝑵𝑮*
-*𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙏𝙀𝘾𝙃*
-*𝙊𝙒𝙉𝙀𝙍 : 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝘼𝘿𝘼𝙈𝙎*
+*Vibez-MD 😎*
+*PRO TECH*
+*CREATOR : PRO TECH*
 ____________________________________
 ╔════◇
-║『 𝘽𝙇𝘼𝘾𝙆 𝙋𝘼𝙉𝙏𝙃𝙀𝙍 𝙄𝙎 𝙍𝙀𝘼𝘿𝙔 𝙏𝙊 𝘿𝙀𝙋𝙇𝙊𝙔』
-║ OK YOUR SESSION IS READY COPY IT  
-║ AND HOST IT ON HEROKU.
+║『 Hey Boss Vibez-MD Is Ready To Be Deployed』
+║ Now Copy Your Session Id And deploy Vibez-MD.
 ╚════════════════════╝
 ╔═════◇
 ║ 『••• OWNER INFO •••』
-║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://www.youtube.com/@ibrahimmdgpt_
+║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/2349122128803_
 
-║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/message/74F2PC4JA4F3P1_
-
-║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/ibrahimaitech/IBRAHIM-MD_
+║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/GiftedTerry/Vibez-MD_
 
 ║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/H6KaBzAhRnw52DM93KsRy2_
 
-║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y_
+║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: 
 
-║ ❒ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/ibrahim_tech_official_
-
-║ 🐯🐯🐯
+║ Deploy Vibez-MD and Vibe 😎😎
 ╚════════════════════╝ 
- *©𝗜𝗕𝗥𝗔𝗛𝗜𝗠 𝗧𝗘𝗖𝗛*
+ *PRO TECH*
 ___________________________________
 
 Don't Forget To Give Star⭐ To My Repo`
